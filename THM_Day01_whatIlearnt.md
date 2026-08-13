@@ -1,0 +1,1 @@
+Today I learnt How a hacker thinks they mainly look for weakness of a website to get what they want I also learnt a new code called distributer it shows weakness of a website in command you write drib(the website you want to look for)
